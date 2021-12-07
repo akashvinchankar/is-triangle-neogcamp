@@ -1,8 +1,8 @@
 # Triangle Quiz & Questions
 
-### This app based on Triangle quizes and questions
+### This app based on Triangle Calculations and Quizes
 
-## There are four sets of attributes on triangle
+### There are four pages in the website based on triangle
 
 They are as follows:
 
