@@ -2,7 +2,7 @@
 
 ### This app based on Triangle Calculations and Quizes
 
-### There are four pages in the website based on triangle
+> There are four pages in the website based on triangle
 
 They are as follows:
 
@@ -13,7 +13,7 @@ They are as follows:
 
 In the quiz we can see the final score of the correct answers given by the candidate
 
-### Technologies used:
+> Technologies used:
 
 1. HTML
 2. CSS
