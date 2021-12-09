@@ -14,7 +14,7 @@ function calculateScore(){
         }
         index++;
     }
-    outputEl.innerText = "Your score is " + score;
+    outputEl.innerText = "Your score is " + score + " out of " + index;
 }
 
 submitAnswerBtn.addEventListener("click", calculateScore);
