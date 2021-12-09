@@ -33,18 +33,22 @@ input, label{
 }
 
 input{
-    padding: 0.25rem;
+    padding: 0.5rem;
     border-radius: 0.5rem;
     border: 3px solid var(--secondary-dark);
+    font-weight: bold;
+    font-size: 1rem;
 }
 
 button{
-    padding: 0.25rem;
+    margin-top: 1rem;
+    padding: 0.5rem;
     border-radius: 0.5rem;
     border: 3px solid var(--secondary-dark);
     background-color: var(--secondary-dark);
     color: var(--primary-pista);
     font-weight: bold; 
+    font-size: 1rem;
 }
 
 label{
